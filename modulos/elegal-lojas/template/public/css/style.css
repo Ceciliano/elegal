@@ -1,0 +1,29 @@
+
+a.remove {
+    background: url(../images/remove.png) #01090C;
+}
+/*
+    SEAARCH SECTION
+ */
+.search-section{
+    background: url(../images/bg.png) #FF00FF no-repeat;
+}
+/*
+    OFFER SECTION
+ */
+.offer-section{
+    background: url(../images/offer-bg.jpg) no-repeat;
+}
+/*
+    NEWS LATTER SECTION
+ */
+.news-letter-section{
+    background: url(../images/bg.png) #FF00FF no-repeat;
+
+}
+/*
+    CONTACT SECTION
+ */
+.contact-section{
+    background: url(../images/map-bg.png) #2d3237 no-repeat;
+}
